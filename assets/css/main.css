@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+main {
+    @apply w-11/12 h-full mx-auto
+}
